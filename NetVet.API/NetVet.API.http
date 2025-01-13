@@ -1,0 +1,5 @@
+@NetVet.API_HostAddress = http://localhost:5058
+
+### Get Appointments
+GET {{NetVet.API_HostAddress}}/api/appointments?date=2025-01-01&petName=Buddy
+Accept: application/json
