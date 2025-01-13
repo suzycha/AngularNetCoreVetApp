@@ -1,0 +1,22 @@
+# Node.js-related
+node_modules/
+
+# Angular build output
+dist/
+.angular/
+
+# .NET-related
+bin/
+obj/
+*.db
+
+# Environment configuration files
+.env
+.env.local
+.env.*.local
+
+# IDE and system files
+.vscode/
+.idea/
+*.DS_Store
+*.log
